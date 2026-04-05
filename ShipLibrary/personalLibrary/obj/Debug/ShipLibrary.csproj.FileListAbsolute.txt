@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\bin\Debug\MySql.Data.xml
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibr.8724CC34.Up2Date
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.Properties.Resources.resources
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.FormLogin.resources
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.FormMain.resources
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.FormRegister.resources
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\bin\Debug\ShipLibrary.exe.config
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\bin\Debug\ShipLibrary.exe
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\bin\Debug\ShipLibrary.pdb
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.exe
+C:\Users\Павел\Desktop\ShipLibrary8\ShipLibrary\personalLibrary\obj\Debug\ShipLibrary.pdb
